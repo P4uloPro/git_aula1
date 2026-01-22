@@ -1,0 +1,29 @@
+    .Containermain {
+        width: 800px;
+        height: 800px    ;
+        background-color: brown;
+        display: flex;
+        justify-content: center;
+        flex-wrap: nowrap;
+        flex-direction: row;
+        padding: 20px;
+        gap: 50px;
+    }
+    
+    .bloco01 {
+        width: 30%;
+        height: 50%    ;
+        background-color: yellow;
+    }
+
+    .bloco02 {
+        width: 30%;
+        height: 50%    ;
+        background-color: green;
+    }
+
+    .bloco03 {
+        width: 30%;
+        height: 50%    ;
+        background-color: blue;
+    }
